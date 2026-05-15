@@ -78,7 +78,8 @@
       "Medieval architecture"
     ],
     "viewAll": "View locations on Google Maps",
-    "showMore": "Show More Photos"
+    "showMore": "Show More Photos",
+    "mapsUrl": "https://maps.app.goo.gl/A9A8FQFMNhHT1fLX7"
   },
   "reviews": {
     "title": "Visitor Reviews",
