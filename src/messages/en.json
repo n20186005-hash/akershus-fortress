@@ -4,6 +4,7 @@
     "description": "Complete guide to Akershus Fortress in Oslo, Norway. Hours, directions, photos and reviews."
   },
   "header": {
+    "siteName": "Akershus Fortress",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
