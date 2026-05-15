@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "阿克斯胡斯城堡 | 挪威奥斯陆",
+    "description": "阿克斯胡斯城堡完整指南。开放时间、交通指南、照片和游客评价。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "画廊",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "阿克斯胡斯城堡",
+    "subtitle": "自1290年代起守护奥斯陆的中世纪城堡",
+    "rating": "4.5(17,592)",
+    "reviewCount": "17,592 条评价",
+    "hours": "每日开放 9:00-16:00",
+    "openMaps": "查看位置",
+    "mapsUrl": "https://maps.app.goo.gl/A9A8FQFMNhHT1fLX7"
+  },
+  "intro": {
+    "title": "探索阿克斯胡斯城堡",
+    "description": "阿克斯胡斯城堡（Akershus festning）是1290年代由哈康五世国王为保卫奥斯陆而建造的中世纪城堡。它战略性地坐落在俯瞰奥斯陆峡湾的岬角上，在挪威历史上曾作为皇家住所、军事基地和监狱使用。如今，它已成为挪威最重要的文化遗产之一，为游客提供了穿越数百年挪威历史的旅程，同时还能欣赏到港口和城市的壮丽景色。",
+    "visitGuide": {
+      "title": "游览指南",
+      "items": [
+        "开放时间：每日 9:00-16:00（10月至3月），10:00-16:00（11月至2月）。",
+        "提供挪威语和英语导览游。",
+        "城堡场地免费入场；博物馆需单独购票。",
+        "建议预留2-3小时完整参观博物馆和场地。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点特色",
+      "items": [
+        "1290年代由哈康五世国王建造的中世纪城堡",
+        "皇家陵墓，安葬多位挪威君主",
+        "俯瞰奥斯陆峡湾和港口的壮丽景色",
+        "挪威最重要的中世纪城堡"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "探索阿克斯胡斯城堡的历史与遗产",
+    "sections": [
+      {
+        "id": "history",
+        "title": "中世纪起源",
+        "content": "阿克斯胡斯城堡建于1290年代，由哈康五世国王下令建造。正是因为这座城堡，国王将挪威的首都从卑尔根迁至奥斯陆。城堡建在岩石岬角上，旨在保护城市免受海上攻击。几个世纪以来，它经受了无数次围攻，并经过多次扩建和翻新，从中世纪城堡转变为文艺复兴风格的宫殿。"
+      },
+      {
+        "id": "royalMausoleum",
+        "title": "皇家陵墓",
+        "content": "城堡教堂作为皇家陵墓，是多位挪威君主的最后安息地，包括哈康七世国王、莫德王后、奥拉夫五世国王和宋雅王后的父母。美丽的新哥特式 interior 提供了庄严肃穆的氛围，使其成为挪威最重要的皇家场所之一。"
+      },
+      {
+        "id": "defense",
+        "title": "军事防御",
+        "content": "在其历史长河中，阿克斯胡斯城堡一直是挪威的主要军事防御中心。城堡在瑞挪战争和第二次世界大战期间经受住了围攻。如今，城堡的部分区域仍具有军事功能，挪威国防部也位于城堡场地内。"
+      },
+      {
+        "id": "views",
+        "title": "壮丽景色",
+        "content": "城堡提供了奥斯陆最佳的观景视角之一。从城墙和城堡墙壁出发，游客可以欣赏到奥斯陆峡湾、港口和现代奥斯陆城市景观的全景。这里是特别受欢迎的摄影地点，尤其是在日落时分，金色的阳光洒在中世纪石墙上。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "阿克斯胡斯城堡和奥斯陆峡湾的壮丽景色",
+    "captions": [
+      "阿克斯胡斯城堡外观",
+      "城堡庭院",
+      "皇家陵墓内部",
+      "城堡城墙",
+      "奥斯陆峡湾景观",
+      "中世纪建筑"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showMore": "显示更多照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "游客反馈可通过Google地图查看（外部链接）。",
+    "moreReviews": "在Google地图上查看",
+    "items": [
+      {
+        "name": "张明",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "就在奥斯陆市中心的绝佳历史遗迹！从城堡城墙望去景色令人难以置信，导览游非常有教育意义。奥斯陆之行的必访之地。"
+      },
+      {
+        "name": "李华",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "美丽的中世纪建筑和丰富的历史。皇家陵墓非常感人。场地免费探索，性价比很高。"
+      },
+      {
+        "name": "王芳",
+        "date": "2026年1月",
+        "rating": 4,
+        "text": "令人印象深刻的城堡，可以俯瞰港口美景。博物馆很有趣但有点小。计划至少预留2小时来参观所有景点。"
+      },
+      {
+        "name": "刘伟",
+        "date": "2025年12月",
+        "rating": 5,
+        "text": "历史与自然美景的完美结合。我们冬天去的时候下着雪，非常梦幻。城堡保存完好，工作人员知识渊博。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "如何到达",
+    "subtitle": "0150 Oslo, Norway",
+    "openMaps": "在Google地图上查看",
+    "mapsUrl": "https://maps.app.goo.gl/A9A8FQFMNhHT1fLX7"
+  },
+  "footer": {
+    "siteName": "阿克斯胡斯城堡",
+    "rights": "© 2026 阿克斯胡斯城堡独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie设置",
+    "officialResourcesTitle": "相关资源与信息",
+    "officialLinksList": [
+      {"name": "挪威国防建设局 - 阿克斯胡斯城堡", "url": "https://www.forsvarsbygg.no/en/festningene/akershus-fortress"},
+      {"name": "游览奥斯陆", "url": "https://www.visitoslo.com/en/product/?tlp=2978773&name=Akershus-Fortress"},
+      {"name": "挪威旅游局", "url": "https://www.visitnorway.com/listings/akershus-fortress/432/"},
+      {"name": "挪威武装部队博物馆", "url": "https://www.forsvaretsmuseer.no/en/"},
+      {"name": "游览奥斯陆峡湾", "url": "https://www.visitoslofjorden.no/akershus-festning"}
+    ],
+    "disclaimer": "本网站是独立的第三方旅游信息项目。我们与当地政府或任何其他官方机构无关。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年3月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人身份信息。您通过联系表格或电子邮件提供的任何信息都将严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，并与您沟通。我们不会出于营销目的将您的个人信息出售或分享给第三方。"
+      },
+      {
+        "heading": "3. Cookie和追踪",
+        "content": "我们使用Cookie和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示浏览器拒绝所有Cookie或指示何时发送Cookie。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您的数据安全对我们很重要。我们使用商业上可接受的手段来保护您的个人数据，尽管没有任何通过互联网传输的方法是100%安全的。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年3月",
+    "sections": [
+      {
+        "heading": "1. 条款接受",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，您不得访问服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游信息项目。提供的信息仅用于一般信息目的。您同意负责任和合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容，包括文本、图像和徽标，除非另有说明，否则均为网站所有者的财产。未经授权使用、复制或分发是严格禁止的。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们不承担任何责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "严格必要的Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终活跃"
+    },
+    "analytics": {
+      "title": "分析Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  },
+  "officialManagement": {
+    "title": "关于阿克斯胡斯城堡",
+    "text": "阿克斯胡斯城堡由挪威国防地产局和奥斯陆市政管理和维护。\n作为挪威最重要的文化遗产之一，城堡每年接待数十万游客。这里融合了丰富的历史和壮丽的港口景色。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "附近景点",
+    "toursTitle": "推荐游览和活动",
+    "attractions": [
+      {"name": "奥斯陆歌剧院", "url": "https://www.operaen.no"},
+      {"name": "诺贝尔和平中心", "url": "https://www.nobelpeacecenter.org"},
+      {"name": "阿克尔码头", "url": "https://www.akerbrygge.no"}
+    ],
+    "tours": [
+      {"name": "奥斯陆峡湾观光游船", "url": "https://www.oslofjordcruise.com"},
+      {"name": "挪威皇宫游览", "url": "https://www.kongehuset.no"},
+      {"name": "奥斯陆徒步游", "url": "https://www.visitoslo.com"}
+    ]
+  }
+}

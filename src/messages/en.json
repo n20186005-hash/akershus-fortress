@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "Akershus Fortress | Oslo, Norway",
+    "description": "Complete guide to Akershus Fortress in Oslo, Norway. Hours, directions, photos and reviews."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Akershus Fortress",
+    "subtitle": "A medieval castle guarding Oslo since the 1290s",
+    "rating": "4.5(17,592)",
+    "reviewCount": "17,592 reviews",
+    "hours": "Open daily 9:00-16:00",
+    "openMaps": "View Location",
+    "mapsUrl": "https://maps.app.goo.gl/A9A8FQFMNhHT1fLX7"
+  },
+  "intro": {
+    "title": "Discover Akershus Fortress",
+    "description": "Akershus Fortress (Akershus festning) is a medieval castle built in the 1290s by King Haakon V to protect Oslo. Strategically located on a promontory overlooking the Oslofjord, it has served as a royal residence, military base, and prison throughout Norwegian history. Today, it stands as one of Norway's most important cultural heritage sites, offering visitors a journey through centuries of Norwegian history along with spectacular views of the harbor and city.",
+    "visitGuide": {
+      "title": "Visit Guide",
+      "items": [
+        "Open daily 9:00-16:00 (October-March), 10:00-16:00 (November-February).",
+        "Guided tours available in Norwegian and English.",
+        "Free admission to the fortress grounds; museum tickets available separately.",
+        "Allow 2-3 hours for a complete visit including the museum and grounds."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Medieval castle built in the 1290s by King Haakon V",
+        "Royal Mausoleum housing several Norwegian monarchs",
+        "Spectacular views of Oslofjord and the harbor",
+        "Norway's most important medieval fortress"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Explore Akershus Fortress's History and Heritage",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Medieval Origins",
+        "content": "Akershus Fortress was constructed in the 1290s under King Haakon V, who moved Norway's capital from Bergen to Oslo precisely because of this fortress. Built on a rocky promontory, the castle was designed to protect the city from attacks by sea. Over the centuries, it has survived numerous sieges and has been expanded and renovated多次, transforming from a medieval castle into a Renaissance palace."
+      },
+      {
+        "id": "royalMausoleum",
+        "title": "Royal Mausoleum",
+        "content": "The castle chapel serves as the Royal Mausoleum, the final resting place for several Norwegian monarchs including King Haakon VII, Queen Maud, King Olav V, and Queen Sonja's parents. The beautiful neo-Gothic interior provides a dignified and solemn atmosphere, making it one of the most important royal sites in Norway."
+      },
+      {
+        "id": "defense",
+        "title": "Military Defense",
+        "content": "Throughout its history, Akershus Fortress has served as Norway's primary military defense center. The fortress withstood sieges during the Swedish-Norwegian wars and World War II. Today, parts of the fortress still serve military functions, and the Norwegian Ministry of Defence is located within the fortress grounds."
+      },
+      {
+        "id": "views",
+        "title": "Spectacular Views",
+        "content": "The fortress offers some of the best views in Oslo. From the ramparts and castle walls, visitors can enjoy panoramic views of the Oslofjord, the harbor, and the modern Oslo cityscape. It's a particularly popular spot for photography, especially at sunset when the golden light bathes the medieval stone walls."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Stunning views of Akershus Fortress and Oslofjord",
+    "captions": [
+      "Akershus Fortress exterior",
+      "Castle courtyard",
+      "Royal Mausoleum interior",
+      "Fortress ramparts",
+      "Oslofjord view",
+      "Medieval architecture"
+    ],
+    "viewAll": "View locations on Google Maps",
+    "showMore": "Show More Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View locations on Google Maps",
+    "items": [
+      {
+        "name": "James H.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Fantastic piece of history right in the heart of Oslo! The views from the fortress walls are incredible, and the guided tour was very informative. A must-visit when in Oslo."
+      },
+      {
+        "name": "Maria S.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Beautiful medieval architecture with a rich history. The Royal Mausoleum is very moving. Great value for money as the grounds are free to explore."
+      },
+      {
+        "name": "Thomas K.",
+        "date": "January 2026",
+        "rating": 4,
+        "text": "Impressive fortress with great views of the harbor. The museum is interesting but a bit small. Plan to spend at least 2 hours here to see everything."
+      },
+      {
+        "name": "Anna L.",
+        "date": "December 2025",
+        "rating": 5,
+        "text": "A perfect blend of history and beautiful scenery. We visited in winter and it was magical with the snow. The castle is well-preserved and the staff were very knowledgeable."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "0150 Oslo, Norway",
+    "openMaps": "View on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/A9A8FQFMNhHT1fLX7"
+  },
+  "footer": {
+    "siteName": "Akershus Fortress",
+    "rights": "© 2026 Akershus Fortress Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinksList": [
+      {"name": "Forsvarsbygg - Akershus Fortress", "url": "https://www.forsvarsbygg.no/en/festningene/akershus-fortress"},
+      {"name": "Visit Oslo", "url": "https://www.visitoslo.com/en/product/?tlp=2978773&name=Akershus-Fortress"},
+      {"name": "Visit Norway", "url": "https://www.visitnorway.com/listings/akershus-fortress/432/"},
+      {"name": "Forsvarets museer", "url": "https://www.forsvaretsmuseer.no/en/"},
+      {"name": "Visit Oslofjorden", "url": "https://www.visitoslofjorden.no/akershus-festning"}
+    ],
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Akershus Fortress",
+    "text": "Akershus Fortress is managed and maintained by the Norwegian Defence Estates Agency and Oslo Municipality.\nAs one of Norway's most important cultural heritage sites, the fortress welcomes hundreds of thousands of visitors each year. The site combines rich history with spectacular harbor views."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Oslo Opera House", "url": "https://www.operaen.no"},
+      {"name": "Nobel Peace Center", "url": "https://www.nobelpeacecenter.org"},
+      {"name": "Aker Brygge", "url": "https://www.akerbrygge.no"}
+    ],
+    "tours": [
+      {"name": "Oslo Fjord Sightseeing Cruise", "url": "https://www.oslofjordcruise.com"},
+      {"name": "Norwegian Royal Palace Tour", "url": "https://www.kongehuset.no"},
+      {"name": "Oslo Walking Tour", "url": "https://www.visitoslo.com"}
+    ]
+  }
+}
